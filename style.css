@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(32, 32, 49);
+    font-family: monospace;
+}
+
+form{
+    padding-top: 6%;
+    padding-left: 300px;
+    text-align: center;
+}
+
+h1{
+    font-family: monospace;
+    color: rgb(105, 155, 105);
+    text-align: center;
+}
+
+label{
+    color: rgb(185, 84, 185);
+    font-size: 17px;
+}
+
+#resultado{
+    color:rgb(235, 221, 27) ;
+}
